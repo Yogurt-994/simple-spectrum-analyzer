@@ -1,0 +1,2 @@
+# SimpleCircuitCharacteristicTester
+2019电赛D题简易电路特性测试仪
